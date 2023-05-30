@@ -20,14 +20,6 @@ if you want to change the background to text then you just need to change the pa
 
 become
 
-[ your_text. setText("Good Morning");
+[ your_text. setText("Good Morning"); ]
 
-[ your_text. setText("Good Morning");
-
-[teks_Anda. setText("Selamat Pagi");
-
-[ your_text. setText("Good morning");
-
-[teks_Anda. setText("Selamat pagi");
-
- ]
+The rest you can visit our blog : https://minejapanindo.blogspot.com
