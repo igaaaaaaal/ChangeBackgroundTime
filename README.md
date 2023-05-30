@@ -13,3 +13,21 @@ the photo above is for hours during the day until late afternoon
 the photo above is for the clock at night
 ![1649853814954_100](https://github.com/igaaaaaaal/ChangeBackgroundTime/assets/36658334/29539e5d-2629-436d-9376-88867512935e)
 last photo for 00:00 to 05:00
+
+if you want to change the background to text then you just need to change the part
+
+[ set.BackgroundResource(R. drawable.your_image); ]
+
+become
+
+[ your_text. setText("Good Morning");
+
+[ your_text. setText("Good Morning");
+
+[teks_Anda. setText("Selamat Pagi");
+
+[ your_text. setText("Good morning");
+
+[teks_Anda. setText("Selamat pagi");
+
+ ]
